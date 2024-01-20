@@ -37,14 +37,6 @@ class YemekSayfasi extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.all(20.0),
               child: Image.asset(
-                "assets/corba_1.jpg",
-              ),
-            ),
-          ),
-          Expanded(
-            child: Padding(
-              padding: const EdgeInsets.all(20.0),
-              child: Image.asset(
                 "assets/yemek_1.jpg",
               ),
             ),
